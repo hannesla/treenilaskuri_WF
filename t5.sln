@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treenilaskuri", "Treenilaskuri\Treenilaskuri.csproj", "{EF564294-055E-4242-95C9-144047C1DED2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{79992102-56F7-42C0-B357-CA2FEACD2753} = {79992102-56F7-42C0-B357-CA2FEACD2753}
+		{6A3CB47E-4146-4AD0-A95C-810AF8F13310} = {6A3CB47E-4146-4AD0-A95C-810AF8F13310}
+		{7807D6D9-4470-48F5-B53E-1997C5AC1543} = {7807D6D9-4470-48F5-B53E-1997C5AC1543}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTextBox", "NumberTextBox\NumberTextBox.csproj", "{79992102-56F7-42C0-B357-CA2FEACD2753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaceLabel", "PaceLabel\PaceLabel.csproj", "{6A3CB47E-4146-4AD0-A95C-810AF8F13310}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTextBox", "TimeTextBox\TimeTextBox.csproj", "{7807D6D9-4470-48F5-B53E-1997C5AC1543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcerciseFlowLayoutPanel", "ExcerciseFlowLayoutPanel\ExcerciseFlowLayoutPanel.csproj", "{20158F25-824E-4CAD-8DAB-DB5FD7674CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedLabel", "SpeedLabel\SpeedLabel.csproj", "{CC2E7932-DB97-45CF-860C-1418FB75C125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF564294-055E-4242-95C9-144047C1DED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF564294-055E-4242-95C9-144047C1DED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF564294-055E-4242-95C9-144047C1DED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF564294-055E-4242-95C9-144047C1DED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79992102-56F7-42C0-B357-CA2FEACD2753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79992102-56F7-42C0-B357-CA2FEACD2753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79992102-56F7-42C0-B357-CA2FEACD2753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79992102-56F7-42C0-B357-CA2FEACD2753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3CB47E-4146-4AD0-A95C-810AF8F13310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3CB47E-4146-4AD0-A95C-810AF8F13310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3CB47E-4146-4AD0-A95C-810AF8F13310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3CB47E-4146-4AD0-A95C-810AF8F13310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7807D6D9-4470-48F5-B53E-1997C5AC1543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7807D6D9-4470-48F5-B53E-1997C5AC1543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7807D6D9-4470-48F5-B53E-1997C5AC1543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7807D6D9-4470-48F5-B53E-1997C5AC1543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20158F25-824E-4CAD-8DAB-DB5FD7674CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20158F25-824E-4CAD-8DAB-DB5FD7674CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20158F25-824E-4CAD-8DAB-DB5FD7674CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20158F25-824E-4CAD-8DAB-DB5FD7674CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2E7932-DB97-45CF-860C-1418FB75C125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2E7932-DB97-45CF-860C-1418FB75C125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2E7932-DB97-45CF-860C-1418FB75C125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2E7932-DB97-45CF-860C-1418FB75C125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
